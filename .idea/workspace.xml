@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="9a9e9417-fb5c-4731-bba4-4cc8e5c990a3" name="Changes" comment="">
-<<<<<<< Updated upstream
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/glossary.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/glossary.md" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/docs/user-documentation/content_models.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/user-documentation/linked_data.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/concepts/access-control.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/access-control.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/concepts/accessibility.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/accessibility.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/concepts/collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/concepts/collection.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/concepts/rdf.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/concepts/rdf.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/installation/docker-basic-usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/installation/docker-basic-usage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/islandora/drupal-bundle-configurations.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/islandora/rdf-mapping.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/models/audio.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/models/audio.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/models/video.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/models/video.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/reference/islandora_defaults_reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/islandora_defaults_reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/technical-documentation/flysystem.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/flysystem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/technical-documentation/jwt.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/jwt-authentication.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/technical-documentation/uploading-large-files.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/uploading-large-files.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorials/create-a-resource-node.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorials/create-a-resource-node.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorials/create_update_views.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorials/create_update_views.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorials/switch_homepage_to_twig.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorials/switch_homepage_to_twig.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/advanced-search.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/advanced-search.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/content_types.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/content_types.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/context.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/context.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/extending.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/extending.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/facet_on_vocabulary_reference_fields.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/faceting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/file_viewers.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/file_viewers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/glossary.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/glossary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/iiif.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/iiif.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/intro-to-ld-for-islandora-8.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/media.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/media.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/metadata.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/metadata.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/multilingual.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/multilingual.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/oai.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/metadata_harvesting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/objects_to_resource_nodes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/paged-content.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/paged-content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/resource-nodes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/searching.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/searching.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/usage-stats.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/usage-stats.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/user-intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/user-intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/users.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/users.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/versioning.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/versioning.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user-documentation/video-docs.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user-documentation/video-docs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
->>>>>>> Stashed changes
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="2DrF3JhLDD1zviOI9dm9pn3Rbg0" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -70,35 +7,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/user-documentation" />
-    </key>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="9a9e9417-fb5c-4731-bba4-4cc8e5c990a3" name="Changes" comment="" />
-      <created>1661449096259</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1661449096259</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
 </project>
