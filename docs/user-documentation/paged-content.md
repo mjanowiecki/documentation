@@ -95,4 +95,3 @@ This method does not create full metadata for the child nodes. It uses the filen
  It also does not accept zip files; individual files must be uploaded. For more methods of bulk uploading content,
 see [Islandora Workbench](../technical-documentation/migration-islandora-workbench.md)
  and [Migrate Islandora CSV](../extending/#batch-upload-with-a-csv)
-
